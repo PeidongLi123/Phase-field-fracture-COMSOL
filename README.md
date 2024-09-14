@@ -1,6 +1,6 @@
-# Phase-field-fracture-model_Comsol
+# Phase-field-fracture_COMSOL
 
-Comsol Multiphysics implementation of phase-field fracture models based on only one module, i.e., the WEAK FORM PDE.
+A new numerical implementation approach in the COMSOL MULTIPHYSICS, which is based on only one module, i.e., the WEAK FORM PDE, is developed, and the details of numerical implementation are provided. In this approach, the finite element discretization formulas are not needed to be provided, and only the weak form of the governing equations is needed to be input. Therefore, the present numerical implementation approach is of both simplicity and flexibility, and it is suitable for various complex constitutive relations and governing equations.
 
 Note: All the examples have been tested on Comsol Multiphysics 6.0.
 
