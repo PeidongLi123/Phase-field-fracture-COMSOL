@@ -4,7 +4,7 @@ A new numerical implementation approach in the COMSOL MULTIPHYSICS, which is bas
 
 Note: All the examples have been tested on Comsol Multiphysics 6.0.
 
-Author: Peidong Li (peidongli@scu.edu.cn)
+Author: Peidong Li (peidongli@scu.edu.cn; lipeidongde@163.com)
 
 Date: 14 Sep. 2024
 
